@@ -1,0 +1,16 @@
+{
+  "name": "Aurora Web Labs",
+  "short_name": "AWELabs",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1fceee",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/img/auroralogoround.png",
+      "type": "image/png", "sizes": "882x882"
+    }
+    
+  ]
+}

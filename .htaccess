@@ -1,0 +1,7 @@
+allow from all
+#Force Https Redirect For PWA
+#In Case If You Are Running On Localhost Then Please Comment Below Lines
+#PWA's Work On Localhost Without HTTPS
+RewriteEngine On 
+RewriteCond %{HTTPS} off 
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
