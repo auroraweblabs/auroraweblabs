@@ -1,5 +1,6 @@
 # auroraweblabs
 The Official Website Of Aurora Web Labs<br>
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/auroraweblabs/auroraweblabs)
 
 Directory Structure:<br>
 Root--|<br>
